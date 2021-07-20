@@ -29,11 +29,15 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 # Authors and Acknowledgment
-'''Mackenzie Fahey
+Mackenzie Fahey
+
 Mmfahey Programming
+
 mmfahey92@gmail.com
+
 https://mmfahey-portfolio-app.herokuapp.com/
-https://github.com/mmfahey'''
+
+https://github.com/mmfahey
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
