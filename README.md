@@ -21,6 +21,7 @@ Building a modified APK from the python package requires Buildozer to be configu
 Contact the author at mmfahey92@gmail.com
 
 ## Roadmap
+Plan on releasing and IOS version by Fall 2021 and plan on continued bug fixes and update implementations as wanted or needed.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -28,7 +29,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 # Authors and Acknowledgment
-
+Mackenzie Fahey
+Mmfahey Programming
+mmfahey92@gmail.com
+https://mmfahey-portfolio-app.herokuapp.com/
+https://github.com/mmfahey
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
