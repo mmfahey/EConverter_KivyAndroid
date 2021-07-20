@@ -1,4 +1,4 @@
-# Spectrochemical Energy Converter
+# Spectrochemical Energy Converter (Kivy/Android)
 
 ## Description
 Android APK written in python/kivy that allows scientists to quickly and easily convert common energy units used.
@@ -15,7 +15,9 @@ Building a modified APK from the python package requires Buildozer to be configu
 
 ## Usage
 
-'''python main.py'''
+```bash
+python main.py
+```
 
 ## Support
 Contact the author at mmfahey92@gmail.com
