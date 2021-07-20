@@ -31,7 +31,7 @@ Please make sure to update tests as appropriate.
 # Authors and Acknowledgment
 Mackenzie Fahey
 
-Mmfahey Programming
+mmfahey Programming
 
 mmfahey92@gmail.com
 
